@@ -3,7 +3,7 @@
 ##
 <div>
     <p> - Sou um Desenvolvedor web Front-End (Jr). 👨🏻‍💻🖥️📱 <br>
-        - Amante de jogos, tecnologia e desenvolveimento pessoal. 📚🥇🏆🚀    </p>
+        - Amante de jogos, tecnologia e desenvolvimento pessoal. 📚🥇🏆🚀    </p>
 </div>
 
 
