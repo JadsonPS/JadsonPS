@@ -13,7 +13,7 @@
     https://skillicons.dev/
 ---------------------------------------------------------------------->
 #### Tecnologias e Ferramentas:
-<br>
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,vscode,figma,python,github,git,arduino)](https://skillicons.dev)
 
 
