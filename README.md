@@ -1,10 +1,14 @@
 ## Olá, meu nome é <strong>Jadson Pereira</strong> 🔋
+<div><img align="right" src=https://github.com/JadsonPS/JadsonPS/blob/main/skull%20rex.png?raw=true"></div>
 
 ##
 <div>
     <p> - Sou um Desenvolvedor web Front-End (Jr). 👨🏻‍💻🖥️📱 <br>
         - Amante de jogos, tecnologia e desenvolvimento pessoal. 📚🥇🏆🚀    </p>
+    
 </div>
+
+
 
 
 
