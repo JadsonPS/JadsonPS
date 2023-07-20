@@ -1,5 +1,5 @@
 ## Olá, meu nome é <strong>Jadson Pereira</strong> 🔋
-<div><img align="right" src=https://github.com/JadsonPS/JadsonPS/blob/main/skull%20rex.png?raw=true"></div>
+<div><img align="right" src="https://github.com/JadsonPS/JadsonPS/blob/main/T-rex%20Skull.png?raw=true"></div>
 
 ##
 <div>
