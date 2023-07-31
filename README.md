@@ -19,13 +19,13 @@
 #### Atuo como Developer Front-End e essas são as tecnologias que tenho experiência:
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,vscode,figma,github,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
 #### E tambem possuo experiência com tecnologias de Back-End, como:
 [![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs)](https://skillicons.dev)
 
-#### Por fim tenho hábilidades em outras técnologias:
-[![My Skills](https://skillicons.dev/icons?i=python,arduino)](https://skillicons.dev)
+#### Ferramentas e plataformas:
+[![My Skills](https://skillicons.dev/icons?i=python,arduino,figma,github,vscode,git)](https://skillicons.dev)
 
 
 ##
